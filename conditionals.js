@@ -8,7 +8,7 @@ if (raining) {
 
 }
 
-if (tempreture < 0) {
+if (tempreture <  -0 ) {
 
   console.log("Make sure you pick out a scarf!");
 
